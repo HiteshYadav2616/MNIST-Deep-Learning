@@ -40,8 +40,8 @@ A simple Artificial Neural Network (ANN) built with PyTorch to classify handwrit
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mnist-ann-pytorch.git
-cd mnist-ann-pytorch
+git clone https://github.com/HiteshYadav2616/MNIST-Deep-Learning.git
+cd MNIST-Deep-Learning
 ```
 
 ### 2. Install dependencies
