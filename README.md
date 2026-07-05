@@ -29,8 +29,8 @@ A simple Artificial Neural Network (ANN) built with PyTorch to classify handwrit
 ```
 ├── MNISTproject.ipynb      # Main notebook
 ├── mnist_model.pth         # Saved trained model
-├── data/                   # MNIST dataset (downloaded automatically)
 └── README.md
+# MNIST dataset (downloaded automatically)
 ```
 
 ---
